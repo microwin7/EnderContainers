@@ -3,21 +3,21 @@
 <h4 align="center">
 A modern Bukkit plugin to divide enderchest into multiple inventories.
 <br>
-Works with Bukkit/Spigot 1.8 to 1.15!
+Works with Bukkit/Spigot 1.8 to 1.16!
 </h4>
 
 <p align="center">
-    <a href="https://travis-ci.com/utarwyn/EnderContainers">
-        <img src="https://img.shields.io/travis/com/utarwyn/EnderContainers.svg" alt="Travis">
+    <a href="https://github.com/utarwyn/EnderContainers/actions">
+        <img src="https://github.com/utarwyn/EnderContainers/workflows/Java%20Integration/badge.svg" alt="Java CI">
     </a>
-    <a href="https://sonarcloud.io/dashboard?id=fr.utarwyn%3AEnderContainers">
-        <img src="https://sonarcloud.io/api/project_badges/measure?project=fr.utarwyn%3AEnderContainers&metric=alert_status" alt="SonarQube Quality gate">
+    <a href="https://sonarcloud.io/dashboard?id=fr.utarwyn%3Aendercontainers">
+        <img src="https://sonarcloud.io/api/project_badges/measure?project=fr.utarwyn%3Aendercontainers&metric=alert_status" alt="SonarQube Quality gate">
     </a>
-    <a href="https://sonarcloud.io/component_measures?id=fr.utarwyn%3AEnderContainers&metric=Maintainability">
-        <img src="https://sonarcloud.io/api/project_badges/measure?project=fr.utarwyn%3AEnderContainers&metric=sqale_rating" alt="SonarQube maintainability">
+    <a href="https://sonarcloud.io/component_measures?id=fr.utarwyn%3Aendercontainers&metric=Maintainability">
+        <img src="https://sonarcloud.io/api/project_badges/measure?project=fr.utarwyn%3Aendercontainers&metric=sqale_rating" alt="SonarQube maintainability">
     </a>
-    <a href="https://sonarcloud.io/project/activity?custom_metrics=tests&graph=custom&id=fr.utarwyn%3AEnderContainers">
-        <img src="https://sonarcloud.io/api/project_badges/measure?project=fr.utarwyn%3AEnderContainers&metric=coverage" alt="SonarQube coverage">
+    <a href="https://sonarcloud.io/project/activity?custom_metrics=tests&graph=custom&id=fr.utarwyn%3Aendercontainers">
+        <img src="https://sonarcloud.io/api/project_badges/measure?project=fr.utarwyn%3Aendercontainers&metric=coverage" alt="SonarQube coverage">
     </a>
     <br>
     <a href="https://www.spigotmc.org/resources/4750/">
@@ -32,21 +32,18 @@ Works with Bukkit/Spigot 1.8 to 1.15!
     <img src="https://i.imgur.com/VCz4kFS.gif" alt="demo">
 </p>
 
-> :warning: Latest stable version available on Spigot is **NOT compatible** with **1.13-1.15 versions** of Minecraft yet. You **have to download an unstable development build** from this repo to get this support.
-
 > :wave: Need help about the plugin? Go to the [official wiki](https://github.com/utarwyn/EnderContainers/wiki). \
-> You will found a guide to **install and configure it** very quickly and easily.
+> :fire: **NEW!** Download development builds of the plugin from my [personal integration service](https://ci.utarwyn.fr/job/EnderContainers).
 
 
 ## Key Features
 
- - Give access to an **infinite number of enderchests** for your players!
+ - Give access to an **infinite number of enderchests**
  - Each enderchest can have from 1 to 6 rows
  - Ability to open enderchests of **online and offline players**
- - **Absolutely full customization**
  - Support for all items, **even custom items**!
  - Complete backup management
- - Integrations with **Factions, FactionsUUID, WorldGuard, PlotSquared**.
+ - Integrations with **[a bunch of plugins](https://github.com/utarwyn/EnderContainers/wiki/Integrations)**!
 
 
 ## Technical Features
@@ -61,7 +58,7 @@ Works with Bukkit/Spigot 1.8 to 1.15!
 
 ## Support
  
- <a href="https://www.buymeacoff.ee/utarwyn" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> \
+ <a href="https://www.paypal.me/utarwyn" target="_blank"><img src="https://i.imgur.com/ADDI2kk.png" height="50" alt="Paypal button"/></a> \
 **Thank you for your support!** :heart_eyes:
 
 

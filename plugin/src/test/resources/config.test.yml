@@ -1,0 +1,28 @@
+# # # # # # # # # # # # # # # # # # # # # # # #
+#   EnderContainers configuration for tests   #
+# # # # # # # # # # # # # # # # # # # # # # # #
+
+debug: false
+locale: en
+disabledWorlds:
+  - disabled
+enderchests:
+  max: 27
+  default: 1
+  onlyShowAccessible: false
+  useVanillaEnderchest: true
+mysql:
+  enabled: false
+  host: 'localhost'
+  port: 3306
+  user: 'username'
+  password: 'password'
+  database: 'database'
+  tablePrefix: ''
+  ssl:
+    enabled: false
+others:
+  blockNametag: false
+  updateChecker: true
+  useExperimentalSavingSystem: false
+  globalSound: true
